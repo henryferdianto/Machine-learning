@@ -34,3 +34,26 @@ Dataset yang digunakan berisi ribuan gambar tangan dengan berbagai latar belakan
 ## 📜 License
 
 Project ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+
+## 📈 Model Performance
+
+> Add model accuracy plot from `rockpaperscissor.ipynb` to `reports/figures/training-history.png` and update this section with actual metrics.
+
+### Training History
+
+_Actual training/validation accuracy & loss will be added._
+
+### Results
+
+| Metric | Value |
+|---|---|
+| Accuracy (val) | TBD |
+| Loss (val) | TBD |
+
+---
+
+## 💻 Prediction Demo
+
+> Add sample predictions to `reports/figures/sample-predictions.png` showing correct/incorrect predictions.
